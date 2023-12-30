@@ -14,7 +14,7 @@ SALLSCOM C++ Project is a console application designed to manage student data an
    - The application calculates the total marks for each student and ranks them in descending order.
    - School ranks and class ranks are determined based on the total marks.
 
-3. **Output to Console and File:**
+3. **Output File:**
    - The program prints the school and class ranks to the console for easy viewing.
    - The results are also written to a file named "rankings.txt" for future reference.
 
